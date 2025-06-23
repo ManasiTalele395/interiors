@@ -75,7 +75,7 @@ const Navbar: React.FC = () => {
             <PersonOutlineOutlinedIcon/>
           </Box>
         )}
-        {/* Mobile Nav */}
+      
         {isMobile && (
           <IconButton
             edge="start"
